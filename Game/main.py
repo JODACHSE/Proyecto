@@ -1,4 +1,3 @@
-# Jonathan David Chavarro Segura - Dragon ball shooter
 import sys
 import pygame
 import random
