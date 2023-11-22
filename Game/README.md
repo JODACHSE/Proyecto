@@ -37,3 +37,7 @@ Funcionalidades
 Requisitos y Ejecución
 - Requisitos: Python, Pygame
 - Ejecución: Ejecutar archivo main.py en un entorno con Python y Pygame instalados.
+
+
+Referencias
+https://www.youtube.com/watch?v=CGSiSr_QL4M - CHALA HEAD CHALA DRAGON BALL Z) COMPLETA EN ESPAÑOL LATINO
